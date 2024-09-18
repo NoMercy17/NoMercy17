@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🔭 I’m currently working on **Smart contracts**
-
-- 🌱 I’m currently learning **Solidity/Blockchain**
-
-- 📫 How to reach me **antonio.stiube@gmail.com**
+I'm a third-year computer engineering student, passionate about exploring the realms of coding and building robust applications 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antonio-stiube-259423274/](https://www.linkedin.com/in/antonio-stiube-259423274/)
 
