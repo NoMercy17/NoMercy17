@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate developer</h3>
-I'm a third-year computer engineering student, passionate about exploring the realms of coding and building robust applications 
+I'm a fourth-year computer engineering student, passionate about exploring the realms of coding and building robust applications 
 - 📄 Know about my experiences [https://www.linkedin.com/in/antonio-stiube-259423274/](https://www.linkedin.com/in/antonio-stiube-259423274/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
