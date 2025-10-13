@@ -1,9 +1,7 @@
 <h1 align="center">I'm Antonio</h1>
 <h3 align="center">A passionate developer</h3>
-
 I'm a fourth-year computer engineering student, passionate about exploring the realms of coding and building robust applications.  
 - 📄 Know about my experiences [https://www.linkedin.com/in/antonio-stiube-259423274/](https://www.linkedin.com/in/antonio-stiube-259423274/)
-
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -22,9 +20,6 @@ I'm a fourth-year computer engineering student, passionate about exploring the r
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
@@ -39,5 +34,14 @@ I'm a fourth-year computer engineering student, passionate about exploring the r
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit/scikit-original.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
