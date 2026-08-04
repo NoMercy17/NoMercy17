@@ -1,18 +1,13 @@
 <h1 align="center">Antonio Stiube</h1>
 <p align="center">
-  Java Backend developer · Spring Boot · Kafka · gRPC · AWS<br>
-  <sub>B.Sc. Computer Science — Politehnica University Timișoara</sub>
+  Backend Developer · Java · Spring Boot · Quarkus · Kafka · gRPC · Docker · AWS<br>
+  <sub>B.Sc. Computer Science, Politehnica University Timișoara</sub>
 </p>
 
 ---
 
-I build backend systems and then push them past what the assignment needed. A Game of Life
-simulation turned into an exercise in Java concurrency; a weather service turned into an exercise in
-hexagonal architecture; a patient-management project turned into a real study of where gRPC belongs
-and where Kafka does. Most of what I know came from building the same thing twice.
-
-📍 Bucharest, Romania · Open to Backend / Java roles
-📫 antonio.stiube@gmail.com · [LinkedIn](https://www.linkedin.com/in/antonio-stiube)
+Open to Backend / FullStack / Cloud jobs  
+📍 Bucharest, Romania ·  📫 antonio.stiube@gmail.com · [LinkedIn](https://www.linkedin.com/in/antonio-stiube)
 
 ---
 
