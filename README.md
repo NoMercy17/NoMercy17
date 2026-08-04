@@ -11,7 +11,7 @@ simulation turned into an exercise in Java concurrency; a weather service turned
 hexagonal architecture; a patient-management project turned into a real study of where gRPC belongs
 and where Kafka does. Most of what I know came from building the same thing twice.
 
-📍 Bucharest, Romania · Open to Java/Spring/Backend roles
+📍 Bucharest, Romania · Open to Backend / Java roles
 📫 antonio.stiube@gmail.com · [LinkedIn](https://www.linkedin.com/in/antonio-stiube)
 
 ---
