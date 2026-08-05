@@ -18,7 +18,7 @@ Bucharest, Romania · antonio.stiube@gmail.com · [LinkedIn](https://www.linkedi
 |---|---|---|
 | **[Patient Management Microservices](https://github.com/NoMercy17/Patient-Management-Microservices)** | Spring Boot services split deliberately across gRPC (synchronous, typed) and Kafka (async, non-blocking), with the whole AWS deployment written as CDK and exercised locally on LocalStack | `Java 21` `Spring Boot` `gRPC` `Kafka` `PostgreSQL` `AWS CDK` `Docker` |
 | **[Chop & Chat](https://github.com/NoMercy17/Chop-Chat)** | Two-sided social food platform — free AI dish critiques or paid professional chef reviews, with a Stripe Connect marketplace handling onboarding, split payments and payouts | `React Native` `Expo` `Express` `PostgreSQL` `Stripe Connect` `Gemini` `JWT` |
-| **[Weather Aggregator](https://github.com/NoMercy17/weather_agregator)** | Weather aggregation service on Quarkus, built with hexagonal architecture so the domain never knows about Open-Meteo or Postgres | `Java` `Quarkus` `PostgreSQL` `React` |
+| **[Weather Aggregator](https://github.com/NoMercy17/weather-aggregator)** | Weather aggregation service on Quarkus, built with hexagonal architecture so the domain never knows about Open-Meteo or Postgres | `Java` `Quarkus` `PostgreSQL` `React` |
 | **[Game of Life](https://github.com/NoMercy17/Game-of-Life)** | Multi-threaded simulation engine modelling resource contention and reproduction, with local LLM inference generating survival reports from the logs | `Java 21` `Spring Boot` `Concurrency` `Docker Compose` `React` |
 
 ---
