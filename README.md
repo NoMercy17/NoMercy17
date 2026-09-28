@@ -1,6 +1,6 @@
 <h1 align="center">Antonio Stiube</h1>
 <p align="center">
-  Backend Developer · Java · Spring Boot · Quarkus · Kafka · gRPC · Docker · AWS<br>
+  Backend Developer · Java · C++ · Spring Boot · Quarkus · Kafka · gRPC · Docker <br>
   <sub>B.Sc. Computer Science, Politehnica University Timișoara</sub>
 </p>
 
