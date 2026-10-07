@@ -36,7 +36,7 @@ I work through technical books as runnable code rather than as notes — learnin
 
 ## Tools
 
-**Backend** — Java 21 · Spring Boot · Spring Security · Spring Data JPA · Spring Cloud · Quarkus · Node.js/Express
+**Backend** — Java 21 · C++ · Spring Boot · Spring Security · Spring Data JPA · Spring Cloud · Quarkus · Node.js/Express
 
 **Messaging & APIs** — REST · gRPC/Protobuf · Apache Kafka · WebSockets
 
