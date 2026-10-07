@@ -48,7 +48,7 @@ I work through technical books as runnable code rather than as notes — learnin
 
 **Frontend** — React · Vite · Tailwind · React Native · Expo
 
-**Networking** — TCP/IP · VLANs · routing · Cisco IOS (CCNA Modules 1 & 2)
+**Networking** — TCP/IP · VLANs · routing · Cisco IOS 
 
 <!--
 Optional slim badge row — uncomment to use.
