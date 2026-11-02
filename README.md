@@ -41,13 +41,13 @@ I work through technical books as runnable code rather than as notes — learnin
 
 **Messaging & APIs** — REST · gRPC/Protobuf · Apache Kafka · WebSockets
 
-**Data** — PostgreSQL · SQL · Hibernate · pandas · NumPy · scikit-learn
+**Data** — PostgreSQL · SQL · Hibernate · pandas · NumPy 
 
 **Infra** — Docker · Docker Compose · AWS (CDK, ECS Fargate, RDS, MSK, ALB) · LocalStack · Linux · Maven · Git
 
 **Testing** — JUnit · Mockito · Postman
 
-**Frontend** — React · Vite · Tailwind · React Native · Expo
+**Frontend** — React · React Native · Expo
 
 **Networking** — TCP/IP · VLANs · routing · Cisco IOS 
 
