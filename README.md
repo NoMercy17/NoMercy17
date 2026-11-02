@@ -29,6 +29,7 @@ I work through technical books as runnable code rather than as notes — learnin
 
 | Book | Repo | Status |
 |---|---|---|
+| *Effective Modern C++* — Scott Meyers | [Effective-Modern-C++](https://github.com/NoMercy17/Effective-Modern-C++) | In progress |
 | *Spring Security in Action*, 2nd ed. — Laurențiu Spilcă | [Spring-Security-in-Action](https://github.com/NoMercy17/Spring-Security-in-Action) | In progress |
 | *Spring Start Here* — Laurențiu Spilcă | [Spring-Start-Here](https://github.com/NoMercy17/Spring-Start-Here) | Complete |
 
